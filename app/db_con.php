@@ -11,7 +11,7 @@ class conexion {
         $this->DBHOST = 'b65aujabhglo7wzrexe5-mysql.services.clever-cloud.com';
         $this->DBUSER = 'ucl7kw88b8xp513r';
         $this->DBNAME = 'b65aujabhglo7wzrexe5';
-        $this->DBPASS = 'ucl7kw88b8xp513r';
+        $this->DBPASS = 'IVjya5cbfKoBUjntMhDo';
     }
 
     public function conectar() {
