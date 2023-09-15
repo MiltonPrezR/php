@@ -8,10 +8,10 @@ class conexion {
     private $db_con;
 
     public function __construct() {
-        $this->DBHOST = 'localhost';
-        $this->DBUSER = 'root';
-        $this->DBNAME = 'safezone505';
-        $this->DBPASS = '';
+        $this->DBHOST = 'b65aujabhglo7wzrexe5-mysql.services.clever-cloud.com';
+        $this->DBUSER = 'ucl7kw88b8xp513r';
+        $this->DBNAME = 'b65aujabhglo7wzrexe5';
+        $this->DBPASS = 'ucl7kw88b8xp513r';
     }
 
     public function conectar() {
